@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.buildstube" name="[COLOR lime]Repo Buildstube[/COLOR]" version="1.8.1" provider-name="[COLOR lime]Buildstube[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Repo Buildstube">
+		<info compressed="false">http://repo.buildstuben.de/addons.xml</info>
+		<checksum>http://repo.buildstuben.de/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.buildstuben.de/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR lime]Repository[/COLOR]</summary>
+		<description>[COLOR white]Das ist das offizielle Buildstuben Repository !!!! Es ermöglicht euch Addons zu installieren und alte zum Updaten. Ich habe und werde in Zukunft alle Addons in den Verzeichnissen kontrollieren, ob sie noch gehen oder ein Update schon da ist, damit ihr immer auch auf dem aktuellen Stand seid. Sollten Addon´s nicht funktionieren bitte meldet euch in meiner Gruppe (Kodi/FAQ Buildstube) damit ich es mit bekomme. Wünsche euch viel Spaß...[/COLOR]</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+
