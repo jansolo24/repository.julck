@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.julckwizard" name="julck Build Wizard " version="1.0.1" provider-name="julckalternative">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>program executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">julck Build Wizard</summary>
+		<description lang="en">Easy Install of julckAlternative Builds and Addons</description>
+		<disclaimer lang="en">Note: we are not responsible or have any influence to the content and their availability from Kodi Add-ons</disclaimer>
+		<platform>all</platform>
+		<website>http://www.julckalternative.com</website>
+	</extension>
+</addon>
