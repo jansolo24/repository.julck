@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.Mundo.Dragon.Ball"
+       name="[COLOR orange]Mundo[/COLOR][COLOR yellow]Dragon[/COLOR][COLOR red]Ball[/COLOR]" 
+       version="0.2"
+       provider-name="Dani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube"  />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension> 
+  
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Bienvenidos a Mundo Dragon Ball, addon de la mejor serie Anime.</summary>
+    <description>Addon con contenido de la mejor serie Anime de todos los tiempos. Agradecer a Lourdes y JGP todo el apoyo y paciencia, sin ellos no habría existido esto.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
