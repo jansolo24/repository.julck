@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.vipsecrettv" name="[COLOR gold][B].Vip[/B][/COLOR][COLOR white][B]Secret[/B][/COLOR][COLOR blue][B]REPO[/B][/COLOR]" version="1.0.5" provider-name="Vip Secrettv">
+	<extension point="xbmc.addon.repository" name="Vip Secrettv">
+	<info compressed="false">https://github.com/SecretTvVip/repo/raw/master/addons.xml</info>
+	<checksum>https://github.com/SecretTvVip/repo/raw/master/addons.xml.md5</checksum>
+	<datadir zip="true">https://github.com/SecretTvVip/repo/raw/master/zip/</datadir>
+	</extension>
+		<extension point="xbmc.addon.metadata">
+		<summary>Vip Secrettv</summary>
+		<description>
+Vip Secrettv Repository
+		 </description> 
+		<platform>all</platform>
+	</extension>
+</addon>
+
+
+
+
