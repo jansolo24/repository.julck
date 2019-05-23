@@ -27,7 +27,7 @@
     <description>[B]Addon [COLOR greenyellow]Magyck 2019[/B][/COLOR]</description>
     <platform>all</platform>
 <assets>
-<icon>icon.gif</icon>
+<icon>icon.png</icon>
 </assets>
   </extension>
 </addon>
