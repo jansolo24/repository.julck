@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.XMAS" name="[COLOR lime]XMAS[/COLOR] [COLOR white]Repo[/COLOR]" version="0.0.1" provider-name="XMAS">
+    <extension point="xbmc.addon.repository" name="XMAS">
+        <info>https://raw.githubusercontent.com/djliptv/XMAS/master/Repository/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/djliptv/XMAS/master/Repository/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/djliptv/XMAS/master/Repository/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio XMAS</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
