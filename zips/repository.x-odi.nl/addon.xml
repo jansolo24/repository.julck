@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.x-odi.nl" name="QUANTUM REPO" version="3.0.2" provider-name="Quantum">
+    <extension point="xbmc.addon.repository" name="Quantum Repository">
+<dir>
+<info compressed="true">http://repo.x-odi.nl/addons.xml</info>
+<checksum>http://repo.x-odi.nl/addons.xml.md5</checksum>
+<datadir zip="true">http://repo.x-odi.nl/repo</datadir>
+</dir>
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+</dir>
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+</dir>
+<dir>
+<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+</dir>
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+</dir>
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/tnt80/zips/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/tnt80/zips/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/tnt80/zips/master/</datadir>
+</dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary lang="en_GB">Quantum NL Repository</summary>
+<description lang="en_GB">[I]We love streaming[/I][CR][CR][B]Quantum - Media for the Masses[/B][CR][CR]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR][CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+<disclaimer lang="en_GB">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!.</disclaimer>
+<platform>all</platform>
+<news> v3.0.2 (AUG-2018) Code cleanup </news>
+</extension>
+</addon>
