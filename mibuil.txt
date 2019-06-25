@@ -1,0 +1,30 @@
+﻿//15
+ 
+ 
+ 
+name="[B][COLOR white].........jansolobuild kodi18.........[/COLOR][/B]"
+version="0.0"
+url="http://"
+gui="http://"
+kodi="18"
+theme="http://"
+icon="http://tvbox.uiwap.com/kodi/fanart17.6.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description="build y temas varias opciones SECCION PELIS SERIES TODOENUNO AHORA CON MAS ENLACES"
+ 
+
+
+name="todo en uno"
+version="1.3"
+url="https://github.com/jansolo24/repository.julck/blob/master/67543.zip?raw=true"
+gui=""
+kodi="18"
+theme=""
+icon="special://home/media/0/sinwidgets.png"
+fanart="special://home/media/0/sinwidgets.jpg"
+preview="https://"
+adult="No"
+description="build y temas varias opciones SECCION PELIS SERIES TODOENUNO AHORA CON MAS ENLACES"
+ 
